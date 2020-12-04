@@ -36,24 +36,24 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.3"
-  cloud_firestore:
+  jobz:
     dependency: "direct main"
     description:
-      name: cloud_firestore
+      name: jobz
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.13.6"
-  cloud_firestore_platform_interface:
+  jobz_platform_interface:
     dependency: transitive
     description:
-      name: cloud_firestore_platform_interface
+      name: jobz_platform_interface
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.2"
-  cloud_firestore_web:
+  jobz_web:
     dependency: transitive
     description:
-      name: cloud_firestore_web
+      name: jobz_web
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.1+2"
